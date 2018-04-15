@@ -12,17 +12,6 @@
         }
     ],
     "homepage": "http://github.com/bshaffer/oauth2-server-httpfoundation-bridge",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/hocnt84/oauth2-server-php.git"
-        }
-    ],
-    "config": {
-        "github-oauth": {
-            "github.com": "506a480ae7587a6866cf6d48ef37609f49fe491a"
-        }
-    },
     "require":{
         "php":">=5.3.0",
         "symfony/http-foundation": ">=2.1",
