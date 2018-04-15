@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "OAuth2\\": "src/"
+            "OAuth2\\HttpFoundationBridge\\": "src/"
         }
     },
     "minimum-stability": "dev",
